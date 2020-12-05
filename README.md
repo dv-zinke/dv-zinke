@@ -7,6 +7,7 @@ Good day! I am developer zinke
 ### :paw_prints: Languages
 Javascript, Dart, Java, Kotlin
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dv-zinke&show_icons=true)
 
 <!--
 **dv-zinke/dv-zinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
