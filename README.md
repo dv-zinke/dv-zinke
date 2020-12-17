@@ -2,11 +2,12 @@
 
 Good day! I am developer zinke 
 
-### :paw_prints: Languages
+### Languages :paw_prints:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dv-zinke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Github History
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dv-zinke&show_icons=true)
 
