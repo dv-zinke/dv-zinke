@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/페북주소)](페북주소)
 -->
 
+### Baekjoon algorithm
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dv_zinke)](https://solved.ac/dv_zinke)
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dv.zinke@gmail.com)](mailto:dv.zinke@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdv-zinke&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
